@@ -1,1 +1,2 @@
 hello
+ths is a new feature
